@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.Operators", "Con
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5EA4A4D8-409D-476B-B38D-038E351F1376}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.ConditionsAndDecisions", "ConsoleApp.ConditionsAndDecisions\ConsoleApp.ConditionsAndDecisions.csproj", "{1E5A1CBB-9E8C-4436-B9A6-E4978768BAA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.ConditionsAndDecisions", "ConsoleApp.ConditionsAndDecisions\ConsoleApp.ConditionsAndDecisions.csproj", "{1E5A1CBB-9E8C-4436-B9A6-E4978768BAA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.SampleCalculator", "ConsoleApp.SampleCalculator\ConsoleApp.SampleCalculator.csproj", "{9EEB65FE-56F9-4A7D-AD06-A0630D507D34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.SampleCalculator", "ConsoleApp.SampleCalculator\ConsoleApp.SampleCalculator.csproj", "{9EEB65FE-56F9-4A7D-AD06-A0630D507D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Loops", "ConsoleApp.Loops\ConsoleApp.Loops.csproj", "{33127BC7-DE39-4966-8ECC-65D80CAB099E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,10 @@ Global
 		{9EEB65FE-56F9-4A7D-AD06-A0630D507D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EEB65FE-56F9-4A7D-AD06-A0630D507D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EEB65FE-56F9-4A7D-AD06-A0630D507D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33127BC7-DE39-4966-8ECC-65D80CAB099E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33127BC7-DE39-4966-8ECC-65D80CAB099E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33127BC7-DE39-4966-8ECC-65D80CAB099E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33127BC7-DE39-4966-8ECC-65D80CAB099E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
